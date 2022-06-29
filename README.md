@@ -1,1 +1,3 @@
-# hugo-template
+# hugo-dot
+
+A template for web sites?
